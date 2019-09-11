@@ -26,8 +26,6 @@ Airtest支持连接Android,ios和Android模拟器，该脚本仅在明日方舟P
 ![run-alter](readme-images/run-alter.png)
 9. 点击![start](readme-images/start.png)开始运行脚本，点击![stop](readme-images/stop.png)结束运行脚本。开始运行之前一定要保证模拟器显示的是如同第**7**条图中的界面
 
-## 目前存在的问题
-- 如果刷的过程升级会导致脚本判断状况失败而报错停止运行，发现这个问题时手快把升级页面给点没了，没有抓图，于是脚本里就缺失了这一功能。下次升级的时候我会把这一功能加上，或者哪位大佬升级的时候提个PR也行（
 
 ## 结语
 如果指南中有哪里不清楚，或者使用脚本过程中存在问题，欢迎提issue，或发邮件给escyezi@foxmail.com，或加我的微信/qq：1015845532

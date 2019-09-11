@@ -16,7 +16,7 @@ continueSettlement=Template(r"images/tpl1567860934823.png", record_pos=(0.158, 0
 giveup=Template(r"images/tpl1567861220806.png", record_pos=(-0.149, 0.114), resolution=(1440, 810))
 actionFailed=Template(r"images/tpl1567861331827.png", record_pos=(0.22, -0.026), resolution=(1440, 810))
 agentDisabled=Template(r"images/tpl1567921198118.png", record_pos=(0.392, 0.181), resolution=(1440, 810))
-levelUp=Template(r"tpl1568209363072.png", record_pos=(-0.203, 0.008), resolution=(1440, 810))
+levelUp=Template(r"images/levelup.png", record_pos=(-0.203, 0.008), resolution=(1440, 810))
 # def exit(msg):
 #     assert_equal(0,1,msg)
     
