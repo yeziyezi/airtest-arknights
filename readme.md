@@ -8,8 +8,8 @@ Airtest支持连接Android,ios和Android模拟器，该脚本仅在明日方舟P
 2. Airtest IDE：访问[Airtest官网](http://airtest.netease.com/)
 ## 如何下载脚本？
 #### 两种方法
-1. ```git clone git@github.com:yeziyezi/airtest-arknights.git```
-2. Clone or download - Download ZIP，然后保存到本地并解压 
+1. ```git clone git@github.com:yeziyezi/airtest-arknights.git arknights.air```
+2. Clone or download - Download ZIP，然后保存到本地并解压，重命名文件夹为arknights.air 
 ## 运行步骤
 1. 运行Airtest IDE![airtest-ide](readme-images/run-airtest.png)，关掉默认的utitled.air标签页
 2. 运行明日方舟PC模拟器，登录游戏
