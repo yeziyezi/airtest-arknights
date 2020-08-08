@@ -1,0 +1,178 @@
+{
+    "blueStartBtn": {
+        "name": "blue-start.png",
+        "pos": {
+            "x": 0.419,
+            "y": 0.231
+        },
+        "description": "蓝色开始按钮"
+    },
+    "redStartBtn": {
+        "name": "red-start.png",
+        "pos": {
+            "x": 0.36,
+            "y": 0.119
+        },
+        "description": "红色开始按钮"
+    },
+    "finish": {
+        "name": "action-end.png",
+        "pos": {
+            "x": -0.333,
+            "y": 0.21
+        },
+        "description": "战斗结束"
+    },
+    "usePotion": {
+        "name": "use-potion.png",
+        "pos": {
+            "x": 0.11,
+            "y": -0.218
+        },
+        "description": "当前使用选项为药剂"
+    },
+    "useStone": {
+        "name": "use-stone.png",
+        "pos": {
+            "x": 0.325,
+            "y": -0.159
+        },
+        "description": "当前使用选项为源石"
+    },
+    "confirmUsePotion": {
+        "name": "confirm-use.png",
+        "pos": {
+            "x": 0.351,
+            "y": 0.172
+        },
+        "description": "确认使用药剂"
+    },
+    "agentFailedMessage": {
+        "name": "agent-failed.png",
+        "pos": {
+            "x": -0.216,
+            "y": -0.048
+        },
+        "description": "代理失误"
+    },
+    "continueSettlement": {
+        "name": "continue-settlement.png",
+        "pos": {
+            "x": 0.158,
+            "y": 0.112
+        },
+        "description": "继续结算"
+    },
+    "giveup": {
+        "name": "giveup.png",
+        "pos": {
+            "x": -0.149,
+            "y": 0.114
+        },
+        "description": "代理失误后放弃"
+    },
+    "actionFailed": {
+        "name": "action-failed.png",
+        "pos": {
+            "x": 0.22,
+            "y": -0.026
+        },
+        "description": "行动失败"
+    },
+    "agentDisabled": {
+        "name": "agent-disabled.png",
+        "pos": {
+            "x": 0.392,
+            "y": 0.181
+        },
+        "description": "代理为禁用状态"
+    },
+    "levelUp": {
+        "name": "level-up.png",
+        "pos": {
+            "x": -0.203,
+            "y": 0.008
+        },
+        "description": "升级提示"
+    },
+    "backToReady": {
+        "name": "back-to-ready.png",
+        "pos": {
+            "x": 0.385,
+            "y": 0.235
+        },
+        "description": "选择使用药水补充理智下方的空白,点击可以回到选关界面"
+    },
+    "homeButton":{
+        "name":"home_btn.png",
+        "pos":{
+            "x":-0.291,
+            "y":-0.252
+        },
+        "description": "页面上方的home按钮"
+    },
+    "blackBattle":{
+        "name":"black-battle.png",
+        "pos":{
+            "x":0.259,
+            "y":-0.157
+        },
+        "description": "黑色开始作战按钮"
+    },
+    "goHome":{
+        "name":"go-home.png",
+        "pos":{
+            "x":-0.428,
+            "y":-0.074
+        },
+        "description": "下拉菜单中的返回首页按钮"
+    },
+    "material":{
+        "name":"material.png",
+        "pos":{
+            "x":-0.318,
+            "y":0.235
+        },
+        "description": "物资筹备"
+    },
+    "CE":{
+        "name":"ce.png",
+        "pos":{
+            "x":0.276,
+            "y":0.005
+        },
+        "description": "货物运送（钱本）"
+    },
+    "CE5":{
+        "name":"ce5.png",
+        "pos":{
+            "x": 0.235,
+            "y":-0.143
+        },
+        "description": "货物运送（钱本）5"
+    },
+    "not-open":{
+        "name":"not-open.png",
+        "pos":{
+            "x": 0.349,
+            "y":-0.194
+        },
+        "description": "关卡未开放"
+    },
+    "LS":{
+        "name":"ls.png",
+        "pos":{
+            "x": -0.356,
+            "y":0.117
+        },
+        "description": "战术演习（经验本）"
+    },
+    "LS5":{
+        "name":"ls5.png",
+        "pos":{
+            "x": 0.233,
+            "y":-0.144
+        },
+        "description": "战术演习（经验本）5"
+    }
+}

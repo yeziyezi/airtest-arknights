@@ -1,0 +1,18 @@
+{
+    "CE-5": {
+        "steps": [
+            "material",
+            "CE",
+            "CE5"
+        ],
+        "cost": 30
+    },
+    "LS-5":{
+        "steps": [
+            "material",
+            "LS",
+            "LS5"
+        ],
+        "cost": 30
+    }
+}
