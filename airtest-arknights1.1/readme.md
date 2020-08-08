@@ -12,7 +12,7 @@ ps: 该脚本在Windows下可以正常运行，理论上也可以支持macos，�
 ps: macos用户可以下载mumu模拟器，然后在mumu中安装明日方舟
 ## 如何下载脚本
 ### 两种方法
-1. ```git clone git@github.com:yeziyezi/airtest-arknights.git -b v1.1```
+1. ```git clone git@github.com:yeziyezi/airtest-arknights.git -b arknights1.1```
 2. Clone or download - Download ZIP，然后保存到本地并解压
 ## 运行步骤
 ### 模拟器准备工作
